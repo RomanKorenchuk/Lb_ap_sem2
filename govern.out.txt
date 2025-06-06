@@ -1,0 +1,11 @@
+id_card
+visa
+insurance
+form_application
+ticket
+hotel
+bank_statement
+background_check
+embassy_letter
+notarization
+authorization

@@ -1,0 +1,10 @@
+visa id_card
+ticket visa
+hotel visa
+insurance id_card
+bank_statement insurance
+embassy_letter bank_statement
+form_application id_card
+background_check form_application
+notarization background_check
+authorization notarization
